@@ -1,0 +1,1 @@
+cl logger.cpp AdvAPI32.lib "C:\Build-OpenSSL-VC-32\lib\libcrypto.lib" "C:\Build-OpenSSL-VC-32\lib\libssl.lib"  "C:\Program Files\LibMySQL\lib\mysqlclient.lib" "C:\Program Files\LibMySQL\lib\libmysql.lib" /I "C:\Program Files\LibMySQL\include"  /link /NODEFAULTLIB:LIBCMT
